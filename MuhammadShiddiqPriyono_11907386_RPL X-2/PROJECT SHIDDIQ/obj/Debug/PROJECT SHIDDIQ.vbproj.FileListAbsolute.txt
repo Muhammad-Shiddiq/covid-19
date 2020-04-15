@@ -1,0 +1,14 @@
+c:\users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\bin\Debug\PROJECT SHIDDIQ.exe.config
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\bin\Debug\PROJECT SHIDDIQ.exe
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\bin\Debug\PROJECT SHIDDIQ.pdb
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\bin\Debug\PROJECT SHIDDIQ.xml
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\obj\Debug\PROJECT_SHIDDIQ.Form1.resources
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\obj\Debug\PROJECT_SHIDDIQ.Resources.resources
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.vbproj.GenerateResource.Cache
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.exe
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.xml
+C:\Users\shiddiq\documents\visual studio 2013\Projects\PROJECT SHIDDIQ\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.pdb
+C:\Users\shiddiq\Documents\Visual Studio 2013\Projects\MuhammadShiddiqPriyono_11907386_RPL X-2\PROJECT SHIDDIQ\bin\Debug\PROJECT SHIDDIQ.exe.config
+C:\Users\shiddiq\Documents\Visual Studio 2013\Projects\MuhammadShiddiqPriyono_11907386_RPL X-2\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.exe
+C:\Users\shiddiq\Documents\Visual Studio 2013\Projects\MuhammadShiddiqPriyono_11907386_RPL X-2\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.xml
+C:\Users\shiddiq\Documents\Visual Studio 2013\Projects\MuhammadShiddiqPriyono_11907386_RPL X-2\PROJECT SHIDDIQ\obj\Debug\PROJECT SHIDDIQ.pdb
